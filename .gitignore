@@ -1,6 +1,8 @@
 
 .env
 **/build
+
+
 #dependencicies directories
 node_modules/
 node_modules/**
